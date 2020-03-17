@@ -1,1 +1,1 @@
-echo 'Hello from run.sh!'
+echo 'Hello QA'ers from run.sh!'
